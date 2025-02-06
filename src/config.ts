@@ -6,8 +6,8 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
     {
-        domain: "search.arden.moe",
-        url: "https://google.com/",
+        domain: "github.project.arden.moe",
+        url: "https://github.com/",
         enable: true
     }
 ];
