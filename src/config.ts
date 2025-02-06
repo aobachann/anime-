@@ -7,7 +7,7 @@ export let PROXY_CODE_SECRET = 'Easy-Reverse-Proxy'; // 代理码密钥
 export let PROXIES: Proxy[] = [
     {
         domain: "arden.moe",
-        url: "https://youtube.com/",
+        url: "https://pixiv.net/",
         enable: true
     }
 ];
